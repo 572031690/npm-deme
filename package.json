@@ -18,8 +18,11 @@
   "license": "MIT",
   "description": "",
   "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qddidi/learntestvite"
+    "url": "https://github.com/572031690/npm-deme"
   }
 }
